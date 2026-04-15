@@ -1,0 +1,1 @@
+{\n  "name": "cv-jd-alignment",\n  "version": "1.0.0",\n  "description": "CV-JD alignment backend project",\n  "main": "server.js",\n  "scripts": {\n    "start": "node server.js"\n  },\n  "dependencies": {\n    "express": "^4.17.3",\n    "pdf-parse": "^1.1.1",\n    "natural": "^0.6.3",\n    "ast-types": "^0.14.0"\n  }\n}
